@@ -3,7 +3,7 @@
 
 # 📚 Libra · Biblioteca digital
 
-**[🔗 Demo en vivo](https://crud-libros-express-ts.vercel.app/)** · [![CI](https://github.com/Leonardo2206/Libra/actions/workflows/ci.yml/badge.svg)](https://github.com/Leonardo2206/Libra/actions/workflows/ci.yml)
+**[🔗 Demo en vivo](https://crud-libros-express-ts.vercel.app/)**
 
 > **English summary:** Full-stack book catalog (monorepo). Express 5 + TypeScript REST API on PostgreSQL (Supabase) with JWT in httpOnly cookies, Zod validation, versioned SQL migrations and cover uploads to Supabase Storage. React 19 + Vite frontend with a public catalog and a private admin panel. Tested with Vitest + Supertest.
 
