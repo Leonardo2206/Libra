@@ -1,7 +1,17 @@
-# Libra · Biblioteca digital (Express + TypeScript + React)
+<!-- Pega esto AL INICIO de tu README.md de Libra, reemplazando solo el título y el primer párrafo.
+     El resto de tu README está muy bien: no lo cambies. -->
 
-Monorepo con una API REST (Express + TypeScript) respaldada por **PostgreSQL (Supabase)** y una
-aplicación web en React (Vite) que incluye:
+# 📚 Libra · Biblioteca digital
+
+**[🔗 Demo en vivo](https://crud-libros-express-ts.vercel.app/)** · [![CI](https://github.com/Leonardo2206/Libra/actions/workflows/ci.yml/badge.svg)](https://github.com/Leonardo2206/Libra/actions/workflows/ci.yml)
+
+> **English summary:** Full-stack book catalog (monorepo). Express 5 + TypeScript REST API on PostgreSQL (Supabase) with JWT in httpOnly cookies, Zod validation, versioned SQL migrations and cover uploads to Supabase Storage. React 19 + Vite frontend with a public catalog and a private admin panel. Tested with Vitest + Supertest.
+
+<!-- TODO: agrega una captura en docs/screenshot.png y descomenta la línea de abajo -->
+<!-- ![Libra](docs/screenshot.png) -->
+
+Monorepo con una API REST (Express + TypeScript) respaldada por **PostgreSQL (Supabase)** y una aplicación web en React (Vite) que incluye:
+
 
 - **Catálogo público** para lectores (sin cuenta): inicio, listado con buscador y paginación,
   y detalle de cada libro.
